@@ -10,3 +10,11 @@ Instructions:
 
 7. navigate to the "tests" folder.
 8. Run  the command " npx playwright test --headed"
+
+   Test Cases:
+
+   1. Login -
+   2 .Search -
+   3. Adding to the cart -
+  
+   Testing approach used: 
