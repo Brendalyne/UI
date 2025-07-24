@@ -14,7 +14,7 @@ Instructions:
    Test Cases:
 
    1. Login -
-   2 .Search -
+   2. Search -
    3. Adding to the cart -
   
    Testing approach used: 
